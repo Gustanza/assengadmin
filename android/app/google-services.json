@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "704332307655",
+    "project_id": "assengaprime-92489",
+    "storage_bucket": "assengaprime-92489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704332307655:android:9b5665d7c37146e3ce32e2",
+        "android_client_info": {
+          "package_name": "com.example.assenga_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704332307655-ghel367f23ml0ga6vh9ii5kjfdsro91d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDX9Um-_pL1fQSrkRwASqXxKAugKfLmac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704332307655-ghel367f23ml0ga6vh9ii5kjfdsro91d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704332307655-94g906hn71ejjkqaj9c9n3g147msbh7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.assengaOnline.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704332307655:android:1f9cf9c5b16b1d76ce32e2",
+        "android_client_info": {
+          "package_name": "com.example.assengadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704332307655-ghel367f23ml0ga6vh9ii5kjfdsro91d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDX9Um-_pL1fQSrkRwASqXxKAugKfLmac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704332307655-ghel367f23ml0ga6vh9ii5kjfdsro91d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704332307655-94g906hn71ejjkqaj9c9n3g147msbh7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.assengaOnline.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
